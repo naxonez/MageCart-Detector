@@ -5,9 +5,6 @@ function detectPattern(payload,link)
 	var re = /var _0x[a-z]{1}[0-9]{3}=\["\\x[A-F0-9]{2}\\/gm;
 	if( payload.match(re) ){
 		alert("Possible Magecart found - "+link);
-		return 1;
-	}else{
-		return 0;
 	}
 
 }

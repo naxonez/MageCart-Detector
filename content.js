@@ -25,7 +25,7 @@ function httpGet(theUrl)
 
 function main()
 {
-	for (var i = 0; i < scripts.length; ++i) {
+	for (var i = 0; i < scripts.length; i++) {
 		httpGet(scripts[i].getAttribute("src"));
 	}
 }

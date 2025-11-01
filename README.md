@@ -2,8 +2,8 @@
 
 > **Lightweight browser extension for detecting Magecart-style card skimmers directly from your browser.**
 
-<img width="628" height="516" alt="Captura" src="https://github.com/user-attachments/assets/59e108e6-8599-47dd-95b2-0a5f22a0c4ac" />
-<img width="628" height="516" alt="Captura1" src="https://github.com/user-attachments/assets/2fa0b3be-f99d-4f0e-8750-0fffe115a1e0" />
+<img width="616" height="608" alt="image" src="https://github.com/user-attachments/assets/b0fbe216-2bc5-4e9b-9e62-de7742bf77b9" />
+<img width="607" height="430" alt="image" src="https://github.com/user-attachments/assets/d53df6f1-83dc-4000-bfe5-517ecd0c90a9" />
 
 ---
 

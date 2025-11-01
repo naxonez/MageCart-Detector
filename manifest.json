@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Magecart Detector",
+  "version": "0.6.0",
+  "description": "Detecta código ofuscado con patrones _0x en scripts de la página",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "48": "MageCart.png"
+  }
+}

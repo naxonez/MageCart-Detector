@@ -29,8 +29,18 @@ This extension provides an early-warning mechanism by detecting common obfuscati
 
 ---
 
-## ⚙️ Installation (Manual)
+## Installation (for development/testing)
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/<yourusername>/magecart-detector.git
+1. Clone or download this repository.
+2. Open Chrome and navigate to `chrome://extensions/`.
+3. Enable **Developer mode** in the top right corner.
+4. Click **Load unpacked** and select the folder of this project.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+## License
+
+MIT License
